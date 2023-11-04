@@ -1,7 +1,7 @@
 
 # sorasukt's Webpage from STNET Radio
 
-This website is in dev. If you want to get more information, Please go https://stnetradio.co for more
+This website is in dev. If you want to get more information, Please go [stnetradio.co](https://stnetradio.co) for more
 
 
 ## Color Reference
@@ -14,8 +14,8 @@ This website is in dev. If you want to get more information, Please go https://s
 ## Authors
 
 #### X (Formerly Twitter)
-- [@sorasukt](https://twitter.com/sorasukt)
-- [@STNETRadio](https://twitter.com/STNETRadio)
+- [@sorasukt](https://twitter.com/sorasukt) (Owner)
+- [@STNETRadio](https://twitter.com/STNETRadio) (Codeing Team)
 
 #### Github
 - [@sorasukt](https://Github.com/sorasukt)
@@ -33,5 +33,5 @@ For support, email support@stnetradio.online or follow our X (formerly from Twit
 
 
 ## [License](https://support.stnetrado.co)
-**© 2023 *STNET* Radio Media**
+© 2023 ***STNET* Radio Media**
 

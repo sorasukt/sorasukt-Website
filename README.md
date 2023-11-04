@@ -26,5 +26,5 @@ For support, email support@stnetradio.online or follow our X (formerly from Twit
 
 ## License
 
-[© 2023 STNET Radio Media](https://support.stnetradio.co/)
+[© 2023 STNET Radio](https://support.stnetradio.co/)
 

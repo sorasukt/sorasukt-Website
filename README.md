@@ -3,6 +3,14 @@
 
 This website is in dev. If you want to get more information, Please go https://stnetradio.co for more
 
+
+## Color Reference
+
+| Color             | Hex                                                                |
+| ----------------------------------- | ------------------------------------------------------------------ |
+| STNET Radio | ![#f70707](https://via.placeholder.com/10/f70707?text=+) #f70707 |
+
+
 ## Authors
 
 #### X (Formerly Twitter)
@@ -10,8 +18,8 @@ This website is in dev. If you want to get more information, Please go https://s
 - [@STNETRadio](https://twitter.com/STNETRadio)
 
 #### Github
-- [@sorasukt] (https://Github.com/sorasukt)
-- [@STNETRadio] (https://Github.com/STNETRadio)
+- [@sorasukt](https://Github.com/sorasukt)
+- [@STNETRadio](https://Github.com/STNETRadio)
 
 
 ## Feedback
@@ -21,10 +29,9 @@ If you have any feedback, please reach out to us at teamsorasukt@stnetradio.onli
 
 ## Support
 
-For support, email support@stnetradio.online or follow our X (formerly from Twitter) at [@TeamSTNETRadio](https://twitter.com/teamstnetradio).
+For support, email support@stnetradio.online or follow our X (formerly from Twitter) at @TeamSTNETRadio.
 
 
-## License
-
-[© 2023 STNET Radio](https://support.stnetradio.co/)
+## [License](https://support.stnetrado.co)
+**© 2023 *STNET* Radio Media**
 

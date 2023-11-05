@@ -43,9 +43,9 @@ If you have any feedback, please reach out to us at teamsorasukt@stnetradio.onli
 
 ## Support
 
-For support, email support@stnetradio.online or follow our X (formerly from Twitter) at @TeamSTNETRadio.
+For support, email support@stnetradio.online or follow our X (formerly from Twitter) at [@TeamSTNETRadio](https://x.com/teamstnetradio).
 
 ****
-## [License](https://support.stnetrado.co)
+## [License](https://support.stnetradio.co)
 Copyrights © 2023 ***STNET* Radio.** All Rights Reserved.
 
